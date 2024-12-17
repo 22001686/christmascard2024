@@ -157,9 +157,13 @@ body {
     font-size: 70px;
     text-align: center;
     line-height: 100px;
-    padding: 90px 10px;
+    padding: 50px 10px;
     box-shadow: 25px 25px 35px rgba(0, 0, 0, 0.3);
     transition: 2s;
+}
+
+.subText {
+    font-size: 30px;
 }
 
 .inside > p {
